@@ -27,6 +27,6 @@ async def on_message(message):
     elif message.content.startswith("como prevenir la contaminacion"):
         await message.channel.send(random_es2(1))
 
-client.run("MTEyMzc3MDk4OTc4MDY3MjY4Mg.GaDgQ8.e4hK2odEUiXusyRya18yDetpPUYiiC--RNQz0w")
+client.run("####")
 
 #not finished yet :)
